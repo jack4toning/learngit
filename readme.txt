@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Test merge with no ff.
+Test Hello.py.
